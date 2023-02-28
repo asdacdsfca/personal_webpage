@@ -15,8 +15,8 @@ description: description for search engines and social media cards
 # for internal, make sure to include preceding slash
 nav-links:
   - name: Home
-    url: /
-    external: false
+    url: https://asdacdsfca.github.io/personal_webpage/
+    external: true
   - name: Blog
     url: /blog
     external: false
