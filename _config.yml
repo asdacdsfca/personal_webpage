@@ -54,6 +54,9 @@ long_date: false
 # short date: Apr ‘69
 short_date: true
 
+plugins:
+  - jekyll-seo-tag
+
 #
 #
 # things you probably don't want to change
