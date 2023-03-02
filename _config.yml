@@ -13,20 +13,6 @@ description: description for search engines and social media cards
 tagline: Andrew Zhao
 baseurl: https://asdacdsfca.github.io/personal_webpage/
 
-#Theme
-remote_theme: pmarsceill/just-the-docs@v0.3.3
-color_scheme: foo
-search_enabled: true
-heading_anchors: true
-permalink: pretty
-aux_links:
-  LinkedIn:
-    - 
-  GitHub:
-    - 
-  Instagram:
-    - 
-
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
 nav-links:
