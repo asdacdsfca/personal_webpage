@@ -41,7 +41,7 @@ long_date: false
 short_date: true
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-default-layout
 
 #
 #
