@@ -10,11 +10,8 @@ url: https://point-theme.netlify.app
 # for header and meta tags
 title: Andrew Zhao
 description: description for search engines and social media cards
-theme: just-the-docs
 tagline: Andrew Zhao
 baseurl: https://asdacdsfca.github.io/personal_webpage/
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: 
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -44,7 +41,7 @@ long_date: false
 short_date: true
 
 plugins:
-  - jekyll-default-layout
+  - jekyll-seo-tag
 
 #
 #
