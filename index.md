@@ -7,10 +7,10 @@ I am interested in studying machine learning and algorithm design. In my free ti
 
 ## 👋🏻 Say hi
 
-Wanna chat? Feel free to reach out!
+Want to chat? Have questions? Interested about my projects? Feel free to reach out!
 
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
+- Email: [yiz158@ucsd.edu]
+- [Instagram]<i class="fa fa-instagram" style="font-size:48px;color:red"></i>(https://github.com/katmh/point-theme/issues)
 
 ## 📠 Fun facts
 
