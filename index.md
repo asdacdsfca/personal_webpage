@@ -1,9 +1,9 @@
 ---
 ---
 
-## 🤷 What I am interested in
+## 🤷 What am I interested in
 
-...
+I am interested in studying machine learning and algorithm design. In my free time, I like to play tennis, video games, watch TV shows and enjoy foods around the world!
 
 ## 🦕 What I've done before
 
