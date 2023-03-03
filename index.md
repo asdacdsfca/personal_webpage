@@ -10,7 +10,8 @@ I am interested in studying machine learning and algorithm design. In my free ti
 Want to chat? Have questions? Interested about my projects? Feel free to reach out!
 
 - Email: [yiz158@ucsd.edu]
-- [Instagram]<i class="fa fa-instagram" style="font-size:48px;color:red"></i>(https://github.com/katmh/point-theme/issues)
+<i class="fa fa-instagram" style="font-size:48px;color:red"></i>
+- [Instagram](https://github.com/katmh/point-theme/issues)
 
 ## 📠 Fun facts
 
