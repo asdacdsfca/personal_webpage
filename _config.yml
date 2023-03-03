@@ -29,7 +29,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/my_pic.jpg
 # 100-200 characters recommended
-greeting_text: Hello! Welcome to my page! 😃 I am a Second-year student majoring in Data Science and Mathematics-CS at University of California- San Diego. I am interested in studying machine learning and algorithm design. In my free time, I like to play tennis, video games, watch TV shows and enjoy foods around the world!
+greeting_text: Hello! Welcome to my page! 😃 I am a Second-year student majoring in Data Science | Economics and minoring Mathmatics at University of California- San Diego. I am interested in studying machine learning and algorithm design. In my free time, I like to play tennis, video games, watch TV shows and enjoy foods around the world!
 
 # show blog post excerpts on blog page
 show_excerpts: false
