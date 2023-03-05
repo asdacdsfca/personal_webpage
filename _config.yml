@@ -27,7 +27,7 @@ nav-links:
     external: true
 
 # for the homepage image + big text next to it
-greeting_image: /assets/selfpic.png
+greeting_image: /assets/
 # 100-200 characters recommended
 greeting_text: Hello! Welcome to my page! 😃 I am a Second-year student majoring in Data Science | Economics and minoring Mathmatics at University of California- San Diego.
 
