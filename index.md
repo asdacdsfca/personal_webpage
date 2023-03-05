@@ -5,7 +5,7 @@
 
 I am interested in studying machine learning and algorithm design. In my free time, I like to play tennis, video games, watch TV shows and enjoy foods around the world!
 
-## 👋🏻 Say hi
+## 👋🏻 Contacts
 
 Want to chat? Have questions? Interested about my projects? Feel free to reach out!
 
