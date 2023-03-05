@@ -10,7 +10,7 @@ I am interested in studying machine learning and algorithm design. In my free ti
 Want to chat? Have questions? Interested about my projects? Feel free to reach out!
 
 - Email: [yiz158@ucsd.edu](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCJFGKVTWJKCWVqcptdhrjrgqjwSTmvRRcvWqcWvhSzdbflNgNHddBFDZSglSxSvJpjHDB)
-- [Instagram](https://github.com/katmh/point-theme/issues)
+- Instagram: [csck_13](https://www.instagram.com/csck_13/)
  
 
 ## 📠 Fun facts
