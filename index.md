@@ -11,11 +11,7 @@ Want to chat? Have questions? Interested about my projects? Feel free to reach o
 
 - Email: [yiz158@ucsd.edu](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCJFGKVTWJKCWVqcptdhrjrgqjwSTmvRRcvWqcWvhSzdbflNgNHddBFDZSglSxSvJpjHDB)
 - [Instagram](https://github.com/katmh/point-theme/issues)
-
-<div class="stickyicon-list">  
-<a href="#facebook" class="facebook">   
-<i class="fa fa-facebook"></i>   
-</a>  
+ 
 
 ## 📠 Fun facts
 
