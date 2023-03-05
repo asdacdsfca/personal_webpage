@@ -9,9 +9,11 @@ I am interested in studying machine learning and algorithm design. In my free ti
 
 Want to chat? Have questions? Interested about my projects? Feel free to reach out!
 
-- Email: [yiz158@ucsd.edu](yiz158@ucsd.edu)
+- Email: [yiz158@ucsd.edu](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCJFGKVTWJKCWVqcptdhrjrgqjwSTmvRRcvWqcWvhSzdbflNgNHddBFDZSglSxSvJpjHDB)
 - [Instagram](https://github.com/katmh/point-theme/issues)
+
 <a href="#" class="fa fa-instagram"></a>
+
 ## 📠 Fun facts
 
 - You can customize link colors, container width, and fonts in `styles/styles.scss`
