@@ -17,8 +17,8 @@ nav-links:
   - name: Home
     url: https://asdacdsfca.github.io/personal_webpage/
     external: true
-  - name: Blog
-    url: /blog
+  - name: Project
+    url: /project
     external: false
   - name: Search Engine
     url: https://duckduckgo.com
