@@ -16,6 +16,8 @@ Want to chat? Have questions? Interested about my projects? Feel free to reach o
 ## 👀 Currently Working on
 
 **Courses Spring 2022**
+
+
 | Course Number      | Course Name |
 | :----:        |    :----:   |
 | [COGS 9](https://catalog.ucsd.edu/courses/COGS.html#:~:text=COGS%209.%20Introduction%20to%20Data%20Science%20(4))      | Introduction to Data Science      |
