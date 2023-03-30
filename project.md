@@ -3,9 +3,8 @@ title: Project
 ---
 
 ```
-# The ⭐ represents the relative project
- difficulty to my current understandings and 
- skills on those subjects
+# The ⭐ represents the relative project difficulty 
+ to my current understandings and skills on those subjects
 ```
 
 ## Amazon 
