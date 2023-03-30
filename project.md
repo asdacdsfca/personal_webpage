@@ -2,5 +2,8 @@
 title: Project
 ---
 
-## !!!Note:
-**Some projects are still in the form of a `Notebook` and I am currently trying my best (hopefully 😩) to transfer them into a proper web format 😅 (Click `Description` for more details)**
+# Amazon
+
+## 1. [A detailed analysis and visualization ](https://github.com/asdacdsfca/Amazon_Analysis)
+---
+## 2. [A prediction model on product price that can be run on a local host](https://github.com/asdacdsfca/Amazon_Model)
