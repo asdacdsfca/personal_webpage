@@ -15,7 +15,7 @@ Want to chat? Have questions? Interested about my projects? Feel free to reach o
 
 ## 👀 Currently Working on
 
-**Courses Spring 2022**
+**Courses Spring 2023**
 
 
 | Course Number      | Course Name |
