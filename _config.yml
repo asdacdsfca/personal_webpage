@@ -20,9 +20,9 @@ nav-links:
   - name: Project
     url: /project
     external: false
-  - name: Search Engine
-    url: https://duckduckgo.com
-    external: true
+  - name: Resume
+    url: /about
+    external: false
 
 # for the homepage image + big text next to it
 greeting_image: selfpic.jpg
