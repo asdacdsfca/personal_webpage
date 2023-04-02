@@ -33,4 +33,4 @@ title: Project
 ---
 ## Minist
 ---
-### 1. [Basics](https://github.com/asdacdsfca/Pytorch_Prac)
+### 1. [Basics](https://github.com/asdacdsfca/Pytorch_Prac) ⭐⭐⭐
