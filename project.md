@@ -33,4 +33,5 @@ title: Project
 ---
 ## Minist
 ---
+⚒️ (Still under constructions 😏)
 ### 1. [Basics](https://github.com/asdacdsfca/Pytorch_Prac) ⭐⭐⭐
