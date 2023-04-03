@@ -3,7 +3,7 @@
 
 ## 🧐 What am I interested in
 
-I am interested in studying machine learning and large dataset management. In my free time, I like to play tennis, video games, watch TV shows and enjoy foods around the world!
+I am interested in studying machine learning and database management systems. In my free time, I like to play tennis, video games, watch TV shows and enjoy foods around the world!
 
 ## 👋🏻 Contacts
 
