@@ -31,7 +31,7 @@ title: Project
 ---
 # Image and Signal Processing
 ---
-## Minist
+## Minist and Kaggle
 ---
 ⚒️ (Still under constructions 😏)
 ### 1. [Basics](https://github.com/asdacdsfca/Pytorch_Prac) ⭐⭐⭐
