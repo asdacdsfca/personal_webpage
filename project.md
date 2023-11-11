@@ -35,3 +35,5 @@ title: Project
 ---
 ⚒️ (Still under constructions 😏)
 ### 1. [Basics](https://github.com/asdacdsfca/Pytorch_Prac) ⭐⭐⭐
+
+### 2. [LandScape Image Clustering](https://github.com/asdacdsfca/Pytorch_Prac/blob/main/Kaggle/Kaggle_Landscape.py)
